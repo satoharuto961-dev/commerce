@@ -78,3 +78,5 @@ You can use this comprehensive [integration guide](https://vercel.com/docs/integ
 Automated README update by Pull Shark bot 🦈
 
 Tiny change for Bronze badge
+
+Tiny change for Bronze badge
